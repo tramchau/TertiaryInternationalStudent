@@ -14,7 +14,7 @@ The project turn the tabular data published by the Ministry of Education into th
 Data source is excel file which is downloaded from website https://catalogue.data.govt.nz/dataset/international-students-studying-in-new-zealand
 
 - Data is updated annual by Ministry of Education. The years available are from 2013 to 2022, the yearly data records different metrics (number of students and tuition fee income) by different dimensions (region, field of study, provider types, citizenship).
-- The excel file includes multiple sheets. Two sheets are selected for analysing for this application. They are the enrolment by regions, and the enrolment by field of study. There is one main metric – number of students enrolled.
+- The excel file includes multiple sheets. Three sheets are selected for this application. They are 'student', 'enrolment by regions', and 'enrolment by field of study'. There is one main metric – number of students enrolled.
   
 
 ## Understanding the data
