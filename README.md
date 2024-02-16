@@ -32,3 +32,8 @@ Data source is excel file which is downloaded from website https://catalogue.dat
 **Region**: region is based on the delivery site of the courses that they were enrolled in for that qualification Students studying from offshore locations are included in the Extramural.
 
 **Education sectors & Provider types**: The application provides data for the Tertiary sector. Note: In New Zealand, there are 2 main education sectors including School sector and Tertiary sector. The School sector include Primary and Secondary. The Tertiary includes university, Private Training establishment, Te Pūkenga, and Wānanga.
+
+## Dashboard's snapshots
+
+![image](https://github.com/tramchau/TertiaryInternationalStudent/assets/17041836/4bb9e58f-8fbc-4c7f-8c03-ab8d41c63de2)
+
